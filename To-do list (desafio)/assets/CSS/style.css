@@ -1,0 +1,26 @@
+body {
+ font-family: "fira code", monospace;
+ background-color: black;
+ color: white;
+ 
+}
+
+h1 {
+ justify-content: center;
+ align-items: center;
+ display: flex;
+}
+
+.checkboxes {
+ justify-content: center;
+ align-items: center;
+ display: flex;
+}
+
+.checkbox:checked + .check .items {
+ text-decoration: line-through;
+}
+
+.checkboxes:nth-child(4) {
+ padding-top: 500px;
+}
