@@ -37,6 +37,10 @@ function atividade4() {
    resp2 = `Sua soma é ${(num1 + num2)}, que é menor que 10 e menor que 20`;
   } else if (num1 + num2 > 20) {
    resp2 = `Sua soma é ${(num1 + num2)}, que é maior que 10 e maior que 20`;
+  } else if (num1 + num2 == 10) {
+   resp2 = `Sua soma é ${(num1 + num2)}, que é igual a 10 e menor que 20`;
+  } else if (num1 + num2 == 20) {
+   resp2 = `Sua soma é ${(num1 + num2)}, que é maior que 10 e igual a 20`;
   } else {
    alert("Erro 4/4 - Como você chegou aqui?");
    recomecar();
@@ -62,6 +66,10 @@ function atividade4() {
    resp2 = `Sua soma é ${(num1 + num2)}, que é menor que 10 e menor que 20`;
   } else if (num1 + num2 > 20) {
    resp2 = `Sua soma é ${(num1 + num2)}, que é maior que 10 e maior que 20`;
+  } else if (num1 + num2 == 10) {
+   resp2 = `Sua soma é ${(num1 + num2)}, que é igual a 10 e menor que 20`;
+  } else if (num1 + num2 == 20) {
+   resp2 = `Sua soma é ${(num1 + num2)}, que é maior que 10 e igual a 20`;
   } else {
    alert("Erro 4/4 - Como você chegou aqui?");
    recomecar();
