@@ -1,0 +1,32 @@
+body {
+ justify-content: center;
+ align-items: center;
+ display: flex;
+ font-family: "Fira code", monospace;
+ height: 100vh;
+ margin: 0;
+ background-color: hsl(0, 0%, 90%)
+}
+
+img {
+ max-width: 600px;
+ border-radius: 30px;
+}
+
+main {
+ text-align: center;
+}
+
+h1 {
+ background-color: white;
+ border: 1px solid black;
+ padding: 5px;
+ box-shadow: 4px 4px 5px 0px black;
+ color: hsl(326, 100%, 80%);
+}
+
+button {
+ color: white;
+ background-color: hsl(326, 100%, 80%);
+ border: 0;
+}
