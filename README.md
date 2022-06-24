@@ -1,5 +1,5 @@
 # JS
-Aqui estão os arquivos que fiz usando o JS no módulo 3 do TQI.
+Aqui estão os arquivos que fiz usando o JS no módulo 3 do curso TQI.
 #### Conteúdos:
 - [Contador](https://github.com/KariDriff/JS/tree/main/Contador)
 - [Desafio 1](https://github.com/KariDriff/JS/tree/main/To-do%20list%20(desafio)): To-do list
